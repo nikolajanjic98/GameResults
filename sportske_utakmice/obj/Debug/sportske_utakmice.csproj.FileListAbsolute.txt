@@ -1,0 +1,56 @@
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.exe.config
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.exe
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.pdb
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.AssemblyReference.cache
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Form1.resources
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Properties.Resources.resources
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.GenerateResource.cache
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.CoreCompileInputs.cache
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.exe
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.pdb
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Form2.resources
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Main.resources
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\Google.Protobuf.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\Zstandard.Net.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\System.Memory.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\System.Buffers.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.xml
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.CopyComplete
+C:\Users\Boyko\Desktop\Bojana fax\4.god\baze2\projekat\sportske_utakmice\sportske_utakmice\bin\Debug\Guna.UI2.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.exe.config
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.exe
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\sportske_utakmice.pdb
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\Guna.UI2.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\Zstandard.Net.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\System.Memory.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\System.Buffers.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.xml
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Form1.resources
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Form2.resources
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Main.resources
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.Properties.Resources.resources
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.csproj.CopyComplete
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.exe
+C:\Users\Win10\Desktop\sportske_utakmice\sportske_utakmice\obj\Debug\sportske_utakmice.pdb
